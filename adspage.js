@@ -1,4 +1,4 @@
-(function(sttc){/* 
+const fetchAds = async (function(sttc) => {/* 
  
  Copyright The Closure Library Authors. 
  SPDX-License-Identifier: Apache-2.0 
@@ -247,3 +247,5 @@ h[m])}"_gfp_a_"in window||(window._gfp_a_=!0);Tn(h,g,e);f.adsbygoogle=k;h&&(k.on
 
 
      (adsbygoogle = window.adsbygoogle || []).push({});
+                }
+fetchAds();
