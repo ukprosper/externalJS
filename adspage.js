@@ -1,4 +1,4 @@
-const fetchAds = async (function(sttc) => {/* 
+const fetchAds = async (sttc) => {/* 
  
  Copyright The Closure Library Authors. 
  SPDX-License-Identifier: Apache-2.0 
